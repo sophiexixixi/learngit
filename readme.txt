@@ -6,3 +6,6 @@ Git tracks changes.
 change some thing
 
 add something after add and do not add this line 
+
+add something to test get restore
+add something stupid
